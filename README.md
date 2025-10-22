@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement the given logic function verify its operation in Quartus using Verilog programming.
+To Implement the given logic function verify its operation in Quartus using Verilog programming.
 
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D 
 
